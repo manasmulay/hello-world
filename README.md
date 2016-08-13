@@ -1,2 +1,8 @@
-# hello-world
-Learning Git
+#include <iostream>
+
+using namespace std;
+
+int main(){
+cout << "Hello";
+return 0;
+}
